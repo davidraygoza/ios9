@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2972D2FC-9910-4524-9810-91F0F633D462</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>295B253B39761DE5F3EE966F8089E8B3BB3F5B87</key>
+		<string>https://github.com/davidraygoza/ios9.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>07_passed_data/07_passed_data.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>295B253B39761DE5F3EE966F8089E8B3BB3F5B87</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/davidraygoza/ios9.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>295B253B39761DE5F3EE966F8089E8B3BB3F5B87</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>295B253B39761DE5F3EE966F8089E8B3BB3F5B87</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios9</string>
+		</dict>
+	</array>
+</dict>
+</plist>
